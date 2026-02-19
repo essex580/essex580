@@ -22,16 +22,16 @@
 
 <div align="center">
 
-| <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="40" alt="Game Dev" /> | **Game Development**<br>Creating immersive experiences and complex systems. |
+| <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="40" alt="Game Dev" /> | **Game Development** |
 | :---: | :--- |
-| <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40" alt="Reverse Engineering" /> | **Reverse Engineering**<br>Understanding how things work by taking them apart. |
-| <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="40" alt="Cyber Security" /> | **Cyber Security**<br>Securing systems and analyzing vulnerabilities. |
+| <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40" alt="Reverse Engineering" /> | **Reverse Engineering** |
+| <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="40" alt="Cyber Security" /> | **Cyber Security** |
 
 </div>
 
 ---
 
-### 🛠️ Languages & Arsenal
+### 🛠️ Languages
 
 <div align="center">
 

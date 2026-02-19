@@ -3,54 +3,66 @@
 # Hi there, I'm Essex! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/efF7tKGHqpDB6/giphy.gif" width="200" alt="Hacker Gif" />
+  <a href="https://github.com/essex580">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hacker Gif" />
+  </a>
 </p>
 
-### 🚀 C++ / Lua / Python Developer
+### �️ Cyber Security | 🎮  Game Development | 🧩 Reverse Engineering
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Essex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=essex580&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Metin2 Systems & Server Development**
-- 🛠️ I specialize in **C++**, **Lua**, and **Python**.
-- ⚡ Fun fact: I love optimizing code and creating unique game mechanics.
-- 🌱 I’m currently learning deeper system architecture and optimization techniques.
-
----
-
-### 🛠️ Languages and Tools
+### ⚡ About Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/freebsd-%238B0000.svg?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+| <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="40" alt="Game Dev" /> | **Game Development**<br>Creating immersive experiences and complex systems. |
+| :---: | :--- |
+| <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40" alt="Reverse Engineering" /> | **Reverse Engineering**<br>Understanding how things work by taking them apart. |
+| <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="40" alt="Cyber Security" /> | **Cyber Security**<br>Securing systems and analyzing vulnerabilities. |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages & Arsenal
 
 <div align="center">
-<!-- Note: Change 'Essex' to your actual GitHub username in the links below -->
 
-<a href="https://github.com/Essex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Essex&show_icons=true&theme=radical&count_private=true" alt="Essex's GitHub stats" />
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/Assembly-%23563D7C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+
+<!-- Tools & Platforms -->
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/essex580">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=essex580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Essex's GitHub stats" />
 </a>
 
-<a href="https://github.com/Essex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essex&layout=compact&theme=radical" alt="Top Langs" />
+<br><br>
+
+<a href="https://github.com/essex580">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essex580&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
 </a>
 
 </div>
@@ -58,5 +70,5 @@
 ---
 
 <div align="center">
-  <p>Thanks for visiting! Feel free to check out my repositories.</p>
+  <p><i>Lets code the future.</i></p>
 </div>

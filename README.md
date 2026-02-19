@@ -51,24 +51,3 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/essex580">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=essex580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Essex's GitHub stats" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/essex580">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essex580&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <p><i>Lets code the future.</i></p>
-</div>

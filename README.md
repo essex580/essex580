@@ -1,21 +1,3 @@
-<div align="center">
-
-# 👋
-
-<p align="center">
-  <a href="https://github.com/essex580">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="" />
-  </a>
-</p>
-
-### Cyber Security | Game Development | Reverse Engineering
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=essex580&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
-
 ---
 
 ### ⚡ About Me

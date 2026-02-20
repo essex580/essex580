@@ -1,18 +1,4 @@
----
-
-### ⚡ About Me
-
-<div align="center">
-
-| <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="40" alt="Game Dev" /> | **Game Development** |
-| :---: | :--- |
-| <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40" alt="Reverse Engineering" /> | **Reverse Engineering** |
-| <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="40" alt="Cyber Security" /> | **Cyber Security** |
-
-</div>
-
----
-
+<div align = "center">
 ### 🛠️ Languages
 
 <div align="center">

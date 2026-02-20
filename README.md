@@ -1,4 +1,36 @@
-<div align = "center">
+<div align="center">
+
+# 👋
+
+<p align="center">
+  <a href="https://github.com/essex580">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="" />
+  </a>
+</p>
+
+### Cyber Security | Game Development | Reverse Engineering
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=essex580&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### ⚡ About Me
+
+<div align="center">
+
+| <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="40" alt="Game Dev" /> | **Game Development** |
+| :---: | :--- |
+| <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="40" alt="Reverse Engineering" /> | **Reverse Engineering** |
+| <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="40" alt="Cyber Security" /> | **Cyber Security** |
+
+</div>
+
+---
+
 ### 🛠️ Languages
 
 <div align="center">
@@ -18,4 +50,3 @@
 </div>
 
 ---
-
